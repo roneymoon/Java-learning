@@ -33,7 +33,7 @@ Feel free to explore, learn, and contribute!
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/java-learning-2023.git```
+   git clone https://github.com/your-username/java-learning-2023.git
 Contributing
 If you'd like to contribute to this repository:
 
@@ -41,13 +41,13 @@ Fork the repository.
 
 Create a new branch for your feature or bug fix:
 
-git checkout -b feature-name
+```git checkout -b feature-name
 Make your changes and commit them:
 
-git commit -m "Description of your changes"
+```git commit -m "Description of your changes"
 Push to your fork:
 
-git push origin feature-name
+```git push origin feature-name
 Open a pull request on GitHub.
 
 License
