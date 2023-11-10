@@ -41,13 +41,13 @@ Fork the repository.
 
 Create a new branch for your feature or bug fix:
 
-```git checkout -b feature-name
+```git checkout -b feature-name```
 Make your changes and commit them:
 
-```git commit -m "Description of your changes"
+```git commit -m "Description of your changes"```
 Push to your fork:
 
-```git push origin feature-name
+```git push origin feature-name```
 Open a pull request on GitHub.
 
 License
